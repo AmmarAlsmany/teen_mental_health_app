@@ -89,7 +89,7 @@
     "jotai": "2.6.0",
     "jsonwebtoken": "9.0.2",
     "jspdf": "^3.0.3",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "lucide-react": "0.446.0",
     "mapbox-gl": "1.13.3",
     "next": "14.2.28",
